@@ -5,6 +5,7 @@
 #nyanmisaka/jellyfin:latest
 #yunyizhiying/satisfactory
 #tieonlinux/terraria
-wolveix/satisfactory-server:latest
+#wolveix/satisfactory-server:latest
+thijsvanloef/palworld-server-docker:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
