@@ -7,5 +7,6 @@
 #tieonlinux/terraria
 #wolveix/satisfactory-server:latest
 thijsvanloef/palworld-server-docker:latest
+itzg/minecraft-server:stable
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
